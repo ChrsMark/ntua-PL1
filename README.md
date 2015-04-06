@@ -7,6 +7,6 @@ Course    : Programming Languages 1 - Assignments  (http://www.ece.ntua.gr/en/ed
 
 Authors : Nikolaos Papadis (nikpapadis@gmail.com), 
           Chris Mark (chrs.markx86@gmail.com)
------------
+
 School of ECE, National Technical University of Athens
 
